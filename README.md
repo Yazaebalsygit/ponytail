@@ -1,4 +1,4 @@
-<p align="center">
+Привет <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
     <img src="assets/logo.png" width="220" alt="Ponytail, the lazy senior dev">
